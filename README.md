@@ -38,7 +38,7 @@ Based on the findings, I recommend that Bellabeat:
 
 The project dashboard was created using Tableau Public.
 
-**[View Tableau Dashboard](https://public.tableau.com/views/BellabeatUserActivityAnalysis_17861800145750/Dashboard1?:language=en-US)**)**
+**[View Tableau Dashboard](https://public.tableau.com/views/BellabeatUserActivityAnalysis_17861800145750/Dashboard1?:language=en-US)**
 
 ## Tools
 
