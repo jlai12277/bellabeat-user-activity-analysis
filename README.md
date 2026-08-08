@@ -44,7 +44,7 @@ The project dashboard was created using Tableau Public.
 
 - Tableau Public
 - Google Sheets
-- CSV data
+- Data Analyst/CSV data
 - Microsoft Word
 
 ## Limitations
